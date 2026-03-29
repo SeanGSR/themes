@@ -1,0 +1,32 @@
+{
+  "name": "Nebula",
+  "colors": {
+    "background-color": "#080a12",
+    "pane-color": "#0d1020",
+    "side-pane-color": "#060810",
+    "header-background-color": "hsla(230deg, 40%, 8%, 0.85)",
+    "header-background-color-blur-disabled": "#080a12",
+    "tooltip-background-color": "#131628",
+    "primary-color": "#a78bfa",
+    "primary-color-dark": "#5b3a9e",
+    "alert-color": "#ff6b9d",
+    "alert-color-dark": "#7a1a40",
+    "warn-color": "#ffb347",
+    "warn-color-dark": "#7a5520",
+    "success-color": "#5effa0",
+    "success-color-dark": "#1a6640",
+    "status-offline": "#4a4560",
+    "status-online": "#5effa0",
+    "status-looking-to-play": "#5ec8ff",
+    "status-away-from-keyboard": "#ffe066",
+    "status-do-not-disturb": "#ff6b9d",
+    "text-color": "#e8e0ff",
+    "markup-code-background-color": "rgba(10, 5, 30, 0.85)",
+    "markup-mention-background-color": "rgba(94, 200, 255, 0.15)",
+    "markup-mention-background-color-hover": "rgba(94, 200, 255, 0.35)",
+    "markup-codeblock-background-color": "rgba(5, 2, 20, 0.9)",
+    "markup-spoiler-background-color": "#12152a",
+    "markup-spoiler-background-color-hover": "#1e2240"
+  },
+  "maintainers": ["Nox"]
+}
